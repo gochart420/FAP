@@ -1,2 +1,2 @@
 # FAP
-FAP ios app beta and releases
+Current version: v0.3
