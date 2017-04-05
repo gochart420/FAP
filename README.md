@@ -1,5 +1,5 @@
 # FAP
-**Current version**: v0.4
+**Current version**: *v0.5*
 
 ## Changelog
 
