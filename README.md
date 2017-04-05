@@ -3,6 +3,14 @@
 
 ## Changelog
 
+### v0.5
+- Hides menu during videos
+- Loading indicator for videos
+- Loads more results after scrolling to bottom
+- UI improvements
+- Bug fixes
+---
+
 ### v0.4
 - New search bar
 - New video filter bar
