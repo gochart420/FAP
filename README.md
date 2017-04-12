@@ -1,7 +1,18 @@
 # FAP
-**Current version**: *v0.5*
+**Current version**: *v0.6*
 
 ## Changelog
+
+
+### v0.6
+- Settings page (Premium)
+- Data Saver (Premium)
+- Video quality options (Premium)
+- Airplay support (Premium)
+- 3D touch previews
+- UI improvements
+- Bug fixes
+---
 
 ### v0.5
 - Hides menu during videos
