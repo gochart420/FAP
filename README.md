@@ -1,8 +1,14 @@
 # FAP
-**Current version**: *v0.6*
+**Current version**: *v0.7*
 
 ## Changelog
 
+### v0.7
+- Default video quality options (Premium)
+- History (Premium)
+- Promo page (Non-Premium)
+- Bug fixes
+---
 
 ### v0.6
 - Settings page (Premium)
